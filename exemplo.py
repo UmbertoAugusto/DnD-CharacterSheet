@@ -24,3 +24,6 @@ class sheet(barbaro,halforc):
     '''Aqui seria onde definiriamos de fato a caracter sheet. Quase todas as coisas do tkinter podem ser criadas aqui e essa seria a class que nós usuríamos para rodas o
     programa. Ela herda todas as class ja criadas para que o usuário possa escolher livremente.'''
     pass
+
+
+#CHEGUEIII
