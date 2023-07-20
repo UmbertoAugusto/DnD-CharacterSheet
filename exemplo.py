@@ -27,3 +27,4 @@ class sheet(barbaro,halforc):
 
 
 #CHEGUEIII
+print('teste')
